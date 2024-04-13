@@ -1,4 +1,4 @@
-name: "Sample Bot"
+name: "Schale"
 on:
   workflow_run:
     workflows: [init banner]
@@ -52,7 +52,7 @@ jobs:
               exit 1
           fi
 
-  sample-bot:
+  schale:
     runs-on: ubuntu-latest
     steps:
       - name: "checkout"
