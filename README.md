@@ -5,3 +5,6 @@
 `Nothing Special`
 
 </div>
+
+## Status
+![Status Image](status/status.png)
