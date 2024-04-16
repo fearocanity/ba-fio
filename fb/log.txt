@@ -234,3 +234,11 @@
 [√] Frame: 234, Episode PV https://facebook.com/297969936680719
 [√] Frame: 235, Episode PV https://facebook.com/297970676680645
 [√] Frame: 236, Episode PV https://facebook.com/297971510013895
+[√] Frame: 1, Episode FullVer. https://facebook.com/298148786662834
+[√] Frame: 2, Episode FullVer. https://facebook.com/298149883329391
+[√] Frame: 3, Episode FullVer. https://facebook.com/298150959995950
+[√] Frame: 4, Episode FullVer. https://facebook.com/298152139995832
+[√] Frame: 5, Episode FullVer. https://facebook.com/298153253329054
+[√] Frame: 6, Episode FullVer. https://facebook.com/298154426662270
+[√] Frame: 7, Episode FullVer. https://facebook.com/298155583328821
+[√] Frame: 8, Episode FullVer. https://facebook.com/298156689995377
