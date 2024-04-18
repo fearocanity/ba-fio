@@ -490,3 +490,11 @@
 [√] Frame: 254, Episode FullVer. https://facebook.com/299745383169841
 [√] Frame: 255, Episode FullVer. https://facebook.com/299746479836398
 [√] Frame: 256, Episode FullVer. https://facebook.com/299747509836295
+[√] Frame: 257, Episode FullVer. https://facebook.com/299788619832184
+[√] Frame: 258, Episode FullVer. https://facebook.com/299790096498703
+[√] Frame: 259, Episode FullVer. https://facebook.com/299791066498606
+[√] Frame: 260, Episode FullVer. https://facebook.com/299791989831847
+[√] Frame: 261, Episode FullVer. https://facebook.com/299793039831742
+[√] Frame: 262, Episode FullVer. https://facebook.com/299793983164981
+[√] Frame: 263, Episode FullVer. https://facebook.com/299794713164908
+[√] Frame: 264, Episode FullVer. https://facebook.com/299795449831501
