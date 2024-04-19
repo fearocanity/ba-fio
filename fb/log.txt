@@ -530,3 +530,11 @@
 [√] Frame: 294, Episode FullVer. https://facebook.com/300003543144025
 [√] Frame: 295, Episode FullVer. https://facebook.com/300004556477257
 [√] Frame: 296, Episode FullVer. https://facebook.com/300005613143818
+[√] Frame: 297, Episode FullVer. https://facebook.com/300045676473145
+[√] Frame: 298, Episode FullVer. https://facebook.com/300046616473051
+[√] Frame: 299, Episode FullVer. https://facebook.com/300048103139569
+[√] Frame: 300, Episode FullVer. https://facebook.com/300050139806032
+[√] Frame: 301, Episode FullVer. https://facebook.com/300051806472532
+[√] Frame: 302, Episode FullVer. https://facebook.com/300052956472417
+[√] Frame: 303, Episode FullVer. https://facebook.com/300054003138979
+[√] Frame: 304, Episode FullVer. https://facebook.com/300055096472203
