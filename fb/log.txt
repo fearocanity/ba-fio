@@ -626,3 +626,11 @@
 [√] Frame: 30, Episode 2 https://facebook.com/301501452994234
 [√] Frame: 31, Episode 2 https://facebook.com/301502582994121
 [√] Frame: 32, Episode 2 https://facebook.com/301503796327333
+[√] Frame: 33, Episode 2 https://facebook.com/301561112988268
+[√] Frame: 34, Episode 2 https://facebook.com/301562449654801
+[√] Frame: 35, Episode 2 https://facebook.com/301563776321335
+[√] Frame: 36, Episode 2 https://facebook.com/301565196321193
+[√] Frame: 37, Episode 2 https://facebook.com/301566456321067
+[√] Frame: 38, Episode 2 https://facebook.com/301567669654279
+[√] Frame: 39, Episode 2 https://facebook.com/301568916320821
+[√] Frame: 40, Episode 2 https://facebook.com/301570456320667
