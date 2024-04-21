@@ -594,3 +594,11 @@
 [√] Frame: 358, Episode FullVer. https://facebook.com/300454049765641
 [√] Frame: 359, Episode FullVer. https://facebook.com/300454966432216
 [√] Frame: 360, Episode FullVer. https://facebook.com/300455913098788
+[√] Frame: 1, Episode 2 https://facebook.com/301368856340827
+[√] Frame: 2, Episode 2 https://facebook.com/301369783007401
+[√] Frame: 3, Episode 2 https://facebook.com/301370806340632
+[√] Frame: 4, Episode 2 https://facebook.com/301371816340531
+[√] Frame: 5, Episode 2 https://facebook.com/301373136340399
+[√] Frame: 6, Episode 2 https://facebook.com/301374199673626
+[√] Frame: 7, Episode 2 https://facebook.com/301375143006865
+[√] Frame: 8, Episode 2 https://facebook.com/301376066340106
