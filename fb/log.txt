@@ -650,3 +650,11 @@
 [√] Frame: 54, Episode 2 https://facebook.com/301690512975328
 [√] Frame: 55, Episode 2 https://facebook.com/301691266308586
 [√] Frame: 56, Episode 2 https://facebook.com/301692029641843
+[√] Frame: 57, Episode 2 https://facebook.com/301728636304849
+[√] Frame: 58, Episode 2 https://facebook.com/301729482971431
+[√] Frame: 59, Episode 2 https://facebook.com/301730369638009
+[√] Frame: 60, Episode 2 https://facebook.com/301731196304593
+[√] Frame: 61, Episode 2 https://facebook.com/301731952971184
+[√] Frame: 62, Episode 2 https://facebook.com/301733056304407
+[√] Frame: 63, Episode 2 https://facebook.com/301733959637650
+[√] Frame: 64, Episode 2 https://facebook.com/301734732970906
