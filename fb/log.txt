@@ -666,3 +666,11 @@
 [√] Frame: 70, Episode 2 https://facebook.com/301797246297988
 [√] Frame: 71, Episode 2 https://facebook.com/301798192964560
 [√] Frame: 72, Episode 2 https://facebook.com/301799199631126
+[√] Frame: 73, Episode 2 https://facebook.com/301826046295108
+[√] Frame: 74, Episode 2 https://facebook.com/301826886295024
+[√] Frame: 75, Episode 2 https://facebook.com/301828006294912
+[√] Frame: 76, Episode 2 https://facebook.com/301830146294698
+[√] Frame: 77, Episode 2 https://facebook.com/301831029627943
+[√] Frame: 78, Episode 2 https://facebook.com/301831916294521
+[√] Frame: 79, Episode 2 https://facebook.com/301832829627763
+[√] Frame: 80, Episode 2 https://facebook.com/301833606294352
