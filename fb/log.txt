@@ -730,3 +730,11 @@
 [√] Frame: 134, Episode 2 https://facebook.com/302194562924923
 [√] Frame: 135, Episode 2 https://facebook.com/302195866258126
 [√] Frame: 136, Episode 2 https://facebook.com/302197186257994
+[√] Frame: 137, Episode 2 https://facebook.com/302244546253258
+[√] Frame: 138, Episode 2 https://facebook.com/302245702919809
+[√] Frame: 139, Episode 2 https://facebook.com/302246762919703
+[√] Frame: 140, Episode 2 https://facebook.com/302247822919597
+[√] Frame: 141, Episode 2 https://facebook.com/302248866252826
+[√] Frame: 142, Episode 2 https://facebook.com/302250176252695
+[√] Frame: 143, Episode 2 https://facebook.com/302251286252584
+[√] Frame: 144, Episode 2 https://facebook.com/302252422919137
