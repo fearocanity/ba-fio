@@ -706,3 +706,11 @@
 [√] Frame: 110, Episode 2 https://facebook.com/302018449609201
 [√] Frame: 111, Episode 2 https://facebook.com/302019389609107
 [√] Frame: 112, Episode 2 https://facebook.com/302020496275663
+[√] Frame: 113, Episode 2 https://facebook.com/302069802937399
+[√] Frame: 114, Episode 2 https://facebook.com/302070859603960
+[√] Frame: 115, Episode 2 https://facebook.com/302072192937160
+[√] Frame: 116, Episode 2 https://facebook.com/302073266270386
+[√] Frame: 117, Episode 2 https://facebook.com/302074569603589
+[√] Frame: 118, Episode 2 https://facebook.com/302075782936801
+[√] Frame: 119, Episode 2 https://facebook.com/302076966270016
+[√] Frame: 120, Episode 2 https://facebook.com/302078099603236
