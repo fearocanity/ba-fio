@@ -810,3 +810,11 @@
 [√] Frame: 214, Episode 2 https://facebook.com/302732029537843
 [√] Frame: 215, Episode 2 https://facebook.com/302733159537730
 [√] Frame: 216, Episode 2 https://facebook.com/302734392870940
+[√] Frame: 217, Episode 2 https://facebook.com/302828516194861
+[√] Frame: 218, Episode 2 https://facebook.com/302829722861407
+[√] Frame: 219, Episode 2 https://facebook.com/302830996194613
+[√] Frame: 220, Episode 2 https://facebook.com/302832446194468
+[√] Frame: 221, Episode 2 https://facebook.com/302833876194325
+[√] Frame: 222, Episode 2 https://facebook.com/302835266194186
+[√] Frame: 223, Episode 2 https://facebook.com/302836892860690
+[√] Frame: 224, Episode 2 https://facebook.com/302838526193860
