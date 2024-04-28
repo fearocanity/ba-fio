@@ -823,3 +823,11 @@
 [√] Frame: 227, Episode 2 https://facebook.com/302900779520968
 [√] Frame: 228, Episode 2 https://facebook.com/302902212854158
 [√] Frame: 229, Episode 2 https://facebook.com/302903382854041
+[√] Frame: 1, Episode Benriya-68 PV https://facebook.com/305735772570802
+[√] Frame: 2, Episode Benriya-68 PV https://facebook.com/305736789237367
+[√] Frame: 3, Episode Benriya-68 PV https://facebook.com/305738025903910
+[√] Frame: 4, Episode Benriya-68 PV https://facebook.com/305738925903820
+[√] Frame: 5, Episode Benriya-68 PV https://facebook.com/305739852570394
+[√] Frame: 6, Episode Benriya-68 PV https://facebook.com/305740899236956
+[√] Frame: 7, Episode Benriya-68 PV https://facebook.com/305741869236859
+[√] Frame: 8, Episode Benriya-68 PV https://facebook.com/305742899236756
