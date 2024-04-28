@@ -63,7 +63,7 @@ jobs:
         env:
             tok_fb: ${{ secrets.TOK_FB }}
             tok_gif: ${{ secrets.TOK_GIF }}
-        run: bash frame_main.sh "${tok_fb}" "${tok_gif}"
+        run: bash -x frame_main.sh "${tok_fb}" "${tok_gif}"
 
       - name: "commit changes"
         uses: stefanzweifel/git-auto-commit-action@v4
