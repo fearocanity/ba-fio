@@ -10,7 +10,7 @@ time_started="$(TZ="${FRMENV_SYS_TIMEZONE}" date)"
 
 # Main Loop
 for ((i=1;i<=fph;i++)); do
-    bash -x ./main.sh "${1}" "${2}" || bash img_process.sh "failed" "${time_started}" || exit 1
+    bash ./main.sh "${1}" "${2}" || bash img_process.sh "failed" "${time_started}" || exit 1
     sleep "$((mins * 60))"
 done
 
